@@ -1,0 +1,12 @@
+[submodule "pack/plugins/start/syntastic"]
+	path = pack/plugins/start/syntastic
+	url = https://github.com/scrooloose/syntastic
+[submodule "pack/plugins/start/tabnine-vim"]
+	path = pack/plugins/start/tabnine-vim
+	url = https://github.com/zxqfl/tabnine-vim
+[submodule "pack/plugins/start/vim-gitgutter"]
+	path = pack/plugins/start/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter/
+[submodule "pack/plugins/start/nerdtree"]
+	path = pack/plugins/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git

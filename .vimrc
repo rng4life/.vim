@@ -1,6 +1,5 @@
-set nocompatible              " required
-filetype off                  " required
-
+syntax on
+set backspace=indent,eol,start
 " split navigations
 nnoremap <C-J> <C-W><C-J>
 nnoremap <C-K> <C-W><C-K>

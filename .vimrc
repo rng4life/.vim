@@ -10,7 +10,7 @@ nnoremap <C-H> <C-W><C-H>
 color desert
 
 " tab indentation
-au BufNewFile,BufRead *.py
+"au BufNewFile,BufRead *.py
 set tabstop=4
 set softtabstop=4
 set shiftwidth=4
@@ -20,8 +20,7 @@ set autoindent
 set fileformat=unix
 " line numbers
 set number
-set mouse=a
-au BufRead,BufNewFile *.py,*.pyw,*.c,*.h 
+"au BufRead,BufNewFile *.py,*.pyw,*.c,*.h 
 "match BadWhitespace /\s\+$/
 set pastetoggle=<F3>
 set hlsearch

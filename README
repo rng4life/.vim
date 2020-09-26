@@ -1,0 +1,5 @@
+Simple repo with a simple vim setup using the stock vim v8+ package manager.
+
+NOTE: When cloning, the plugins which are git submodules won't be initialized.
+Cmd to clone and init submodules: git clone --recursive <repo>
+Cmd to init modules after a normal clone: git submodule update --init --recursive
